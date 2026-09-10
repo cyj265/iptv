@@ -451,10 +451,16 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000099/index.m3u8?channel-id=newt
 http://39.134.39.39/270000001128/9900000020/index.m3u8?channel-id=newtv&Contentid=9900000020&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="体育",中国功夫
 http://39.134.39.39/270000001128/9900000101/index.m3u8?channel-id=newtv&Contentid=9900000101&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",中国功夫
+http://[2409:8087:74d9:21::6]/270000001128/9900000101/index.m3u8?channel-id=newtv&Contentid=9900000101&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="体育",精品体育
 http://39.134.39.39/270000001128/9900000102/index.m3u8?channel-id=newtv&Contentid=9900000102&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",精品体育
+http://[2409:8087:74d9:21::6]/270000001128/9900000102/index.m3u8?channel-id=newtv&Contentid=9900000102&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="体育",哒啵赛事
 http://39.134.39.39/270000001128/9900000097/index.m3u8?channel-id=newtv&Contentid=9900000097&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",哒啵赛事
+http://[2409:8087:74d9:21::6]/270000001128/9900000097/index.m3u8?channel-id=newtv&Contentid=9900000097&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="体育",哒啵电竞
 http://39.134.39.39/270000001128/9900000121/index.m3u8?channel-id=newtv&Contentid=9900000121&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="体育",睛彩篮球
