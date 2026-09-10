@@ -319,14 +319,24 @@ http://39.134.39.39/270000001111/1110000323/index.m3u8?channel-id=bestzb&Content
 http://39.134.39.39/270000001111/1110000322/index.m3u8?channel-id=bestzb&Contentid=1110000322&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="甘肃本地",酒泉
 http://39.134.39.39/270000001111/1110000362/index.m3u8?channel-id=bestzb&Contentid=1110000362&livemode=1
+http://39.134.33.100:6610/270000001111/1110000362/index.m3u8?channel-id=bestzb&Contentid=1110000362&livemode=1
+http://39.134.33.101:6610/270000001111/1110000362/index.m3u8?channel-id=bestzb&Contentid=1110000362&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="甘肃本地",金塔
 http://39.134.39.39/270000001111/1110000361/index.m3u8?channel-id=bestzb&Contentid=1110000361&livemode=1
+http://39.134.33.100:6610/270000001111/1110000361/index.m3u8?channel-id=bestzb&Contentid=1110000361&livemode=1
+http://39.134.33.101:6610/270000001111/1110000361/index.m3u8?channel-id=bestzb&Contentid=1110000361&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="甘肃本地",玉门
 http://39.134.39.39/270000001111/1110000377/index.m3u8?channel-id=bestzb&Contentid=1110000377&livemode=1
+http://39.134.33.100:6610/270000001111/1110000377/index.m3u8?channel-id=bestzb&Contentid=1110000377&livemode=1
+http://39.134.33.101:6610/270000001111/1110000377/index.m3u8?channel-id=bestzb&Contentid=1110000377&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="甘肃本地",敦煌
 http://39.134.39.39/270000001111/1110000371/index.m3u8?channel-id=bestzb&Contentid=1110000371&livemode=1
+http://39.134.33.100:6610/270000001111/1110000371/index.m3u8?channel-id=bestzb&Contentid=1110000371&livemode=1
+http://39.134.33.101:6610/270000001111/1110000371/index.m3u8?channel-id=bestzb&Contentid=1110000371&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="甘肃本地",阿克塞
 http://39.134.39.39/270000001111/1110000368/index.m3u8?channel-id=bestzb&Contentid=1110000368&livemode=1
+http://39.134.33.100:6610/270000001111/1110000368/index.m3u8?channel-id=bestzb&Contentid=1110000368&livemode=1
+http://39.134.33.101:6610/270000001111/1110000368/index.m3u8?channel-id=bestzb&Contentid=1110000368&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="甘肃本地",庄浪
 http://39.134.39.39/270000001111/1110000378/index.m3u8?channel-id=bestzb&Contentid=1110000378&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="甘肃本地",定西综合
