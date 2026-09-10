@@ -35,6 +35,20 @@ http://39.134.39.39/270000001128/9900000016/index.m3u8?channel-id=newtv&Contenti
 http://39.134.39.39/270000001128/9900000513/index.m3u8?channel-id=newtv&Contentid=9900000513&livemode=1
 #EXTINF:-1 tvg-id="6" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv5plus.png" group-title="央视",CCTV-5+极清
 http://39.134.39.39/270000001128/9900000507/index.m3u8?channel-id=newtv&Contentid=9900000507&livemode=1
+#EXTINF:-1 tvg-id="1864" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv16.png" group-title="央视",CCTV-16 4K
+http://39.134.39.39/270000001128/9900000535/index.m3u8?channel-id=newtv&Contentid=9900000535&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="央视",CCTV-4K 超高清
+http://39.134.39.39/270000001111/1110000381/index.m3u8?channel-id=bestzb&Contentid=1110000381&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 英语
+http://39.134.39.39/270000001128/9900000063/index.m3u8?channel-id=newtv&Contentid=9900000063&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 俄语
+http://39.134.39.39/270000001128/9900000085/index.m3u8?channel-id=newtv&Contentid=9900000085&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 阿拉伯语
+http://39.134.39.39/270000001128/9900000086/index.m3u8?channel-id=newtv&Contentid=9900000086&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 法语
+http://39.134.39.39/270000001128/9900000087/index.m3u8?channel-id=newtv&Contentid=9900000087&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 西班牙语
+http://39.134.39.39/270000001128/9900000088/index.m3u8?channel-id=newtv&Contentid=9900000088&livemode=1
 #EXTINF:-1 tvg-id="42" tvg-logo="https://epg.51zmt.top:8000/api/logo/gansu.png" group-title="卫视",甘肃卫视标清
 http://39.134.39.39/270000001128/9900000023/index.m3u8?channel-id=newtv&Contentid=9900000023&livemode=1
 #EXTINF:-1 tvg-id="40" tvg-logo="https://epg.51zmt.top:8000/api/logo/chongqing.png" group-title="卫视",重庆卫视极清
@@ -133,6 +147,24 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226893/index.m3u8
 http://39.134.39.39/270000001128/9900000093/index.m3u8?channel-id=newtv&Contentid=9900000093&livemode=1
 #EXTINF:-1 tvg-id="63" tvg-logo="https://epg.51zmt.top:8000/api/logo/yanbian.png" group-title="卫视",延边卫视
 http://39.134.39.39/270000001128/9900000073/index.m3u8?channel-id=newtv&Contentid=9900000073&livemode=1
+#EXTINF:-1 tvg-id="30" tvg-logo="https://epg.51zmt.top:8000/api/logo/beijing.png" group-title="卫视",北京卫视4K
+http://39.134.39.39/270000001111/1110000382/index.m3u8?channel-id=bestzb&Contentid=1110000382&livemode=1
+#EXTINF:-1 tvg-id="31" tvg-logo="https://epg.51zmt.top:8000/api/logo/dongfang.png" group-title="卫视",东方卫视4K
+http://39.134.39.39/270000001111/1110000383/index.m3u8?channel-id=bestzb&Contentid=1110000383&livemode=1
+#EXTINF:-1 tvg-id="33" tvg-logo="https://epg.51zmt.top:8000/api/logo/guangdong.png" group-title="卫视",广东卫视4K
+http://39.134.39.39/270000001111/1110000384/index.m3u8?channel-id=bestzb&Contentid=1110000384&livemode=1
+#EXTINF:-1 tvg-id="27" tvg-logo="https://epg.51zmt.top:8000/api/logo/hunan.png" group-title="卫视",湖南卫视4K
+http://39.134.39.39/270000001111/1110000385/index.m3u8?channel-id=bestzb&Contentid=1110000385&livemode=1
+#EXTINF:-1 tvg-id="29" tvg-logo="https://epg.51zmt.top:8000/api/logo/jiangsu.png" group-title="卫视",江苏卫视4K
+http://39.134.39.39/270000001111/1110000386/index.m3u8?channel-id=bestzb&Contentid=1110000386&livemode=1
+#EXTINF:-1 tvg-id="38" tvg-logo="https://epg.51zmt.top:8000/api/logo/shandong.png" group-title="卫视",山东卫视4K
+http://39.134.39.39/270000001111/1110000387/index.m3u8?channel-id=bestzb&Contentid=1110000387&livemode=1
+#EXTINF:-1 tvg-id="34" tvg-logo="https://epg.51zmt.top:8000/api/logo/shenzhen.png" group-title="卫视",深圳卫视4K
+http://39.134.39.39/270000001111/1110000388/index.m3u8?channel-id=bestzb&Contentid=1110000388&livemode=1
+#EXTINF:-1 tvg-id="56" tvg-logo="https://epg.51zmt.top:8000/api/logo/sichuan.png" group-title="卫视",四川卫视4K
+http://39.134.39.39/270000001111/1110000389/index.m3u8?channel-id=bestzb&Contentid=1110000389&livemode=1
+#EXTINF:-1 tvg-id="28" tvg-logo="https://epg.51zmt.top:8000/api/logo/zhejiang.png" group-title="卫视",浙江卫视4K
+http://39.134.39.39/270000001111/1110000390/index.m3u8?channel-id=bestzb&Contentid=1110000390&livemode=1
 #EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansuwenhua.png" group-title="甘肃本地",甘肃文化影视高清
 http://39.134.39.39/270000001111/1110000320/index.m3u8?channel-id=bestzb&Contentid=1110000320&livemode=1
 #EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansugonggong.png" group-title="甘肃本地",甘肃公共高清
@@ -141,6 +173,24 @@ http://39.134.39.39/270000001111/1110000321/index.m3u8?channel-id=bestzb&Content
 http://39.134.39.39/270000001111/1110000323/index.m3u8?channel-id=bestzb&Contentid=1110000323&livemode=1
 #EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansukejiao.png" group-title="甘肃本地",甘肃科教高清
 http://39.134.39.39/270000001111/1110000322/index.m3u8?channel-id=bestzb&Contentid=1110000322&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃本地",玉门
+http://39.134.39.39/270000001111/1110000377/index.m3u8?channel-id=bestzb&Contentid=1110000377&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃本地",庄浪
+http://39.134.39.39/270000001111/1110000378/index.m3u8?channel-id=bestzb&Contentid=1110000378&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃本地",定西综合
+http://39.134.39.39/270000001111/1110000393/index.m3u8?channel-id=bestzb&Contentid=1110000393&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃本地",定西文旅生活
+http://39.134.39.39/270000001111/1110000394/index.m3u8?channel-id=bestzb&Contentid=1110000394&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃本地",临洮综合
+http://39.134.39.39/270000001111/1110000395/index.m3u8?channel-id=bestzb&Contentid=1110000395&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃本地",天视（天水）
+http://39.134.39.39/270000001111/1110000399/index.m3u8?channel-id=bestzb&Contentid=1110000399&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃本地",武威天祝
+http://39.134.39.39/270000001111/1110000400/index.m3u8?channel-id=bestzb&Contentid=1110000400&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃本地",凉州
+http://39.134.39.39/270000001111/1110000401/index.m3u8?channel-id=bestzb&Contentid=1110000401&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃本地",灵台
+http://39.134.39.39/270000001111/1110000402/index.m3u8?channel-id=bestzb&Contentid=1110000402&livemode=1
 #EXTINF:-1 tvg-id="73" tvg-logo="https://epg.51zmt.top:8000/api/logo/cetv1.png" group-title="教育",中国教育标清
 http://39.134.39.39/270000001128/9900000046/index.m3u8?channel-id=newtv&Contentid=9900000046&livemode=1
 #EXTINF:-1 tvg-id="74" tvg-logo="https://epg.51zmt.top:8000/api/logo/cetv2.png" group-title="教育",CETV2标清
@@ -207,6 +257,14 @@ http://39.134.39.39/270000001128/9900000102/index.m3u8?channel-id=newtv&Contenti
 http://39.134.39.39/270000001128/9900000097/index.m3u8?channel-id=newtv&Contentid=9900000097&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="体育",哒啵电竞
 http://39.134.39.39/270000001128/9900000121/index.m3u8?channel-id=newtv&Contentid=9900000121&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",睛彩篮球
+http://39.134.39.39/270000001128/9900000118/index.m3u8?channel-id=newtv&Contentid=9900000118&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",睛彩竞技
+http://39.134.39.39/270000001128/9900000119/index.m3u8?channel-id=newtv&Contentid=9900000119&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",睛彩青少年
+http://39.134.39.39/270000001128/9900000120/index.m3u8?channel-id=newtv&Contentid=9900000120&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",睛彩广场舞
+http://39.134.39.39/270000001128/9900000532/index.m3u8?channel-id=newtv&Contentid=9900000532&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="生活健康",银发生活
 http://39.134.39.39/270000001128/9900000076/index.m3u8?channel-id=newtv&Contentid=9900000076&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="生活健康",营养饮食
