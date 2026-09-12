@@ -441,23 +441,23 @@ http://39.134.39.39/270000001111/1110000381/index.m3u8?channel-id=bestzb&Content
 http://39.134.32.167:6610/270000001111/1110000381/index.m3u8?channel-id=bestzb&Contentid=1110000381&livemode=1
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4K.png" group-title="4K",CCTV-4K 超高清-线路3
 http://[2409:8087:74f1:21::8]/270000001111/1110000381/index.m3u8?channel-id=bestzb&Contentid=1110000381&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃",甘肃文化影视高清-线路1
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu3.png" group-title="甘肃",甘肃文化影视高清-线路1
 http://39.134.39.39/270000001111/1110000320/index.m3u8?channel-id=bestzb&Contentid=1110000320&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃",甘肃文化影视高清-线路2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu3.png" group-title="甘肃",甘肃文化影视高清-线路2
 http://39.134.32.167:6610/270000001111/1110000320/index.m3u8?channel-id=bestzb&Contentid=1110000320&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃",甘肃文化影视高清-线路3
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu3.png" group-title="甘肃",甘肃文化影视高清-线路3
 http://[2409:8087:74f1:21::8]/270000001111/1110000320/index.m3u8?channel-id=bestzb&Contentid=1110000320&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃",甘肃公共高清-线路1
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu5.png" group-title="甘肃",甘肃公共高清-线路1
 http://39.134.39.39/270000001111/1110000321/index.m3u8?channel-id=bestzb&Contentid=1110000321&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃",甘肃公共高清-线路2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu5.png" group-title="甘肃",甘肃公共高清-线路2
 http://39.134.32.167:6610/270000001111/1110000321/index.m3u8?channel-id=bestzb&Contentid=1110000321&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃",甘肃公共高清-线路3
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu5.png" group-title="甘肃",甘肃公共高清-线路3
 http://[2409:8087:74f1:21::8]/270000001111/1110000321/index.m3u8?channel-id=bestzb&Contentid=1110000321&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃",甘肃少儿高清-线路1
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu4.png" group-title="甘肃",甘肃少儿高清-线路1
 http://39.134.39.39/270000001111/1110000323/index.m3u8?channel-id=bestzb&Contentid=1110000323&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃",甘肃少儿高清-线路2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu4.png" group-title="甘肃",甘肃少儿高清-线路2
 http://39.134.32.167:6610/270000001111/1110000323/index.m3u8?channel-id=bestzb&Contentid=1110000323&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃",甘肃少儿高清-线路3
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu4.png" group-title="甘肃",甘肃少儿高清-线路3
 http://[2409:8087:74f1:21::8]/270000001111/1110000323/index.m3u8?channel-id=bestzb&Contentid=1110000323&livemode=1
 #EXTINF:-1 tvg-logo="" group-title="甘肃",甘肃科教高清-线路1
 http://39.134.39.39/270000001111/1110000322/index.m3u8?channel-id=bestzb&Contentid=1110000322&livemode=1
