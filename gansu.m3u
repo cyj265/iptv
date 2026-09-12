@@ -1,275 +1,537 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-id="1" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv1.png" group-title="央视",CCTV-1极清
+#EXTINF:-1 tvg-id="1" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv1.png" group-title="央视",CCTV-1极清-线路1
 http://39.134.39.39/270000001128/9900000501/index.m3u8?channel-id=newtv&Contentid=9900000501&livemode=1
-#EXTINF:-1 tvg-id="2" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv2.png" group-title="央视",CCTV-2极清
+#EXTINF:-1 tvg-id="1" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv1.png" group-title="央视",CCTV-1极清-线路2
+http://39.134.32.167:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&Contentid=9900000501&livemode=1
+#EXTINF:-1 tvg-id="2" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv2.png" group-title="央视",CCTV-2极清-线路1
 http://39.134.39.39/270000001128/9900000502/index.m3u8?channel-id=newtv&Contentid=9900000502&livemode=1
-#EXTINF:-1 tvg-id="3" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv3.png" group-title="央视",CCTV-3高清
+#EXTINF:-1 tvg-id="2" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv2.png" group-title="央视",CCTV-2极清-线路2
+http://39.134.32.167:6610/270000001128/9900000502/index.m3u8?channel-id=newtv&Contentid=9900000502&livemode=1
+#EXTINF:-1 tvg-id="3" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv3.png" group-title="央视",CCTV-3高清-线路1
 http://39.134.39.39/270000001128/9900000003/index.m3u8?channel-id=newtv&Contentid=9900000003&livemode=1
-#EXTINF:-1 tvg-id="4" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv4.png" group-title="央视",CCTV-4极清
+#EXTINF:-1 tvg-id="3" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv3.png" group-title="央视",CCTV-3高清-线路2
+http://39.134.32.167:6610/270000001128/9900000003/index.m3u8?channel-id=newtv&Contentid=9900000003&livemode=1
+#EXTINF:-1 tvg-id="4" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv4.png" group-title="央视",CCTV-4极清-线路1
 http://39.134.39.39/270000001128/9900000503/index.m3u8?channel-id=newtv&Contentid=9900000503&livemode=1
-#EXTINF:-1 tvg-id="5" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv5.png" group-title="央视",CCTV-5高清
+#EXTINF:-1 tvg-id="4" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv4.png" group-title="央视",CCTV-4极清-线路2
+http://39.134.32.167:6610/270000001128/9900000503/index.m3u8?channel-id=newtv&Contentid=9900000503&livemode=1
+#EXTINF:-1 tvg-id="5" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv5.png" group-title="央视",CCTV-5高清-线路1
 http://39.134.39.39/270000001128/9900000005/index.m3u8?channel-id=newtv&Contentid=9900000005&livemode=1
-#EXTINF:-1 tvg-id="7" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv6.png" group-title="央视",CCTV-6高清
+#EXTINF:-1 tvg-id="5" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv5.png" group-title="央视",CCTV-5高清-线路2
+http://39.134.32.167:6610/270000001128/9900000005/index.m3u8?channel-id=newtv&Contentid=9900000005&livemode=1
+#EXTINF:-1 tvg-id="7" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv6.png" group-title="央视",CCTV-6高清-线路1
 http://39.134.39.39/270000001128/9900000006/index.m3u8?channel-id=newtv&Contentid=9900000006&livemode=1
-#EXTINF:-1 tvg-id="8" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv7.png" group-title="央视",CCTV-7极清
+#EXTINF:-1 tvg-id="7" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv6.png" group-title="央视",CCTV-6高清-线路2
+http://39.134.32.167:6610/270000001128/9900000006/index.m3u8?channel-id=newtv&Contentid=9900000006&livemode=1
+#EXTINF:-1 tvg-id="8" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv7.png" group-title="央视",CCTV-7极清-线路1
 http://39.134.39.39/270000001128/9900000504/index.m3u8?channel-id=newtv&Contentid=9900000504&livemode=1
-#EXTINF:-1 tvg-id="9" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv8.png" group-title="央视",CCTV-8高清
+#EXTINF:-1 tvg-id="8" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv7.png" group-title="央视",CCTV-7极清-线路2
+http://39.134.32.167:6610/270000001128/9900000504/index.m3u8?channel-id=newtv&Contentid=9900000504&livemode=1
+#EXTINF:-1 tvg-id="9" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv8.png" group-title="央视",CCTV-8高清-线路1
 http://39.134.39.39/270000001128/9900000008/index.m3u8?channel-id=newtv&Contentid=9900000008&livemode=1
-#EXTINF:-1 tvg-id="10" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv9.png" group-title="央视",CCTV-9极清
+#EXTINF:-1 tvg-id="9" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv8.png" group-title="央视",CCTV-8高清-线路2
+http://39.134.32.167:6610/270000001128/9900000008/index.m3u8?channel-id=newtv&Contentid=9900000008&livemode=1
+#EXTINF:-1 tvg-id="10" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv9.png" group-title="央视",CCTV-9极清-线路1
 http://39.134.39.39/270000001128/9900000505/index.m3u8?channel-id=newtv&Contentid=9900000505&livemode=1
-#EXTINF:-1 tvg-id="11" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv10.png" group-title="央视",CCTV-10极清
+#EXTINF:-1 tvg-id="10" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv9.png" group-title="央视",CCTV-9极清-线路2
+http://39.134.32.167:6610/270000001128/9900000505/index.m3u8?channel-id=newtv&Contentid=9900000505&livemode=1
+#EXTINF:-1 tvg-id="11" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv10.png" group-title="央视",CCTV-10极清-线路1
 http://39.134.39.39/270000001128/9900000506/index.m3u8?channel-id=newtv&Contentid=9900000506&livemode=1
-#EXTINF:-1 tvg-id="12" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv11.png" group-title="央视",CCTV-11极清
+#EXTINF:-1 tvg-id="11" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv10.png" group-title="央视",CCTV-10极清-线路2
+http://39.134.32.167:6610/270000001128/9900000506/index.m3u8?channel-id=newtv&Contentid=9900000506&livemode=1
+#EXTINF:-1 tvg-id="12" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv11.png" group-title="央视",CCTV-11极清-线路1
 http://39.134.39.39/270000001128/9900000508/index.m3u8?channel-id=newtv&Contentid=9900000508&livemode=1
-#EXTINF:-1 tvg-id="13" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv12.png" group-title="央视",CCTV-12极清
+#EXTINF:-1 tvg-id="12" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv11.png" group-title="央视",CCTV-11极清-线路2
+http://39.134.32.167:6610/270000001128/9900000508/index.m3u8?channel-id=newtv&Contentid=9900000508&livemode=1
+#EXTINF:-1 tvg-id="13" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv12.png" group-title="央视",CCTV-12极清-线路1
 http://39.134.39.39/270000001128/9900000509/index.m3u8?channel-id=newtv&Contentid=9900000509&livemode=1
-#EXTINF:-1 tvg-id="14" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv13.png" group-title="央视",CCTV-13极清
+#EXTINF:-1 tvg-id="13" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv12.png" group-title="央视",CCTV-12极清-线路2
+http://39.134.32.167:6610/270000001128/9900000509/index.m3u8?channel-id=newtv&Contentid=9900000509&livemode=1
+#EXTINF:-1 tvg-id="14" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv13.png" group-title="央视",CCTV-13极清-线路1
 http://39.134.39.39/270000001128/9900000510/index.m3u8?channel-id=newtv&Contentid=9900000510&livemode=1
-#EXTINF:-1 tvg-id="15" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv14.png" group-title="央视",CCTV-14极清
+#EXTINF:-1 tvg-id="14" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv13.png" group-title="央视",CCTV-13极清-线路2
+http://39.134.32.167:6610/270000001128/9900000510/index.m3u8?channel-id=newtv&Contentid=9900000510&livemode=1
+#EXTINF:-1 tvg-id="15" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv14.png" group-title="央视",CCTV-14极清-线路1
 http://39.134.39.39/270000001128/9900000511/index.m3u8?channel-id=newtv&Contentid=9900000511&livemode=1
-#EXTINF:-1 tvg-id="16" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv15.png" group-title="央视",CCTV-15极清
+#EXTINF:-1 tvg-id="15" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv14.png" group-title="央视",CCTV-14极清-线路2
+http://39.134.32.167:6610/270000001128/9900000511/index.m3u8?channel-id=newtv&Contentid=9900000511&livemode=1
+#EXTINF:-1 tvg-id="16" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv15.png" group-title="央视",CCTV-15极清-线路1
 http://39.134.39.39/270000001128/9900000512/index.m3u8?channel-id=newtv&Contentid=9900000512&livemode=1
-#EXTINF:-1 tvg-id="1864" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv16.png" group-title="央视",CCTV-16高清
+#EXTINF:-1 tvg-id="16" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv15.png" group-title="央视",CCTV-15极清-线路2
+http://39.134.32.167:6610/270000001128/9900000512/index.m3u8?channel-id=newtv&Contentid=9900000512&livemode=1
+#EXTINF:-1 tvg-id="1864" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv16.png" group-title="央视",CCTV-16高清-线路1
 http://39.134.39.39/270000001128/9900000016/index.m3u8?channel-id=newtv&Contentid=9900000016&livemode=1
-#EXTINF:-1 tvg-id="17" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv17.png" group-title="央视",CCTV-17极清
+#EXTINF:-1 tvg-id="1864" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv16.png" group-title="央视",CCTV-16高清-线路2
+http://39.134.32.167:6610/270000001128/9900000016/index.m3u8?channel-id=newtv&Contentid=9900000016&livemode=1
+#EXTINF:-1 tvg-id="17" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv17.png" group-title="央视",CCTV-17极清-线路1
 http://39.134.39.39/270000001128/9900000513/index.m3u8?channel-id=newtv&Contentid=9900000513&livemode=1
-#EXTINF:-1 tvg-id="6" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv5plus.png" group-title="央视",CCTV-5+极清
+#EXTINF:-1 tvg-id="17" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv17.png" group-title="央视",CCTV-17极清-线路2
+http://39.134.32.167:6610/270000001128/9900000513/index.m3u8?channel-id=newtv&Contentid=9900000513&livemode=1
+#EXTINF:-1 tvg-id="6" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv5plus.png" group-title="央视",CCTV-5+极清-线路1
 http://39.134.39.39/270000001128/9900000507/index.m3u8?channel-id=newtv&Contentid=9900000507&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 英语
+#EXTINF:-1 tvg-id="6" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv5plus.png" group-title="央视",CCTV-5+极清-线路2
+http://39.134.32.167:6610/270000001128/9900000507/index.m3u8?channel-id=newtv&Contentid=9900000507&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 英语-线路1
 http://39.134.39.39/270000001128/9900000063/index.m3u8?channel-id=newtv&Contentid=9900000063&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 俄语
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 英语-线路2
+http://39.134.32.167:6610/270000001128/9900000063/index.m3u8?channel-id=newtv&Contentid=9900000063&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 俄语-线路1
 http://39.134.39.39/270000001128/9900000085/index.m3u8?channel-id=newtv&Contentid=9900000085&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 阿拉伯语
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 俄语-线路2
+http://39.134.32.167:6610/270000001128/9900000085/index.m3u8?channel-id=newtv&Contentid=9900000085&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 阿拉伯语-线路1
 http://39.134.39.39/270000001128/9900000086/index.m3u8?channel-id=newtv&Contentid=9900000086&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 法语
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 阿拉伯语-线路2
+http://39.134.32.167:6610/270000001128/9900000086/index.m3u8?channel-id=newtv&Contentid=9900000086&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 法语-线路1
 http://39.134.39.39/270000001128/9900000087/index.m3u8?channel-id=newtv&Contentid=9900000087&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 西班牙语
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 法语-线路2
+http://39.134.32.167:6610/270000001128/9900000087/index.m3u8?channel-id=newtv&Contentid=9900000087&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 西班牙语-线路1
 http://39.134.39.39/270000001128/9900000088/index.m3u8?channel-id=newtv&Contentid=9900000088&livemode=1
-#EXTINF:-1 tvg-id="42" tvg-logo="https://epg.51zmt.top:8000/api/logo/gansu.png" group-title="卫视",甘肃卫视标清
+#EXTINF:-1 tvg-logo="" group-title="央视",CGTN 西班牙语-线路2
+http://39.134.32.167:6610/270000001128/9900000088/index.m3u8?channel-id=newtv&Contentid=9900000088&livemode=1
+#EXTINF:-1 tvg-id="42" tvg-logo="https://epg.51zmt.top:8000/api/logo/gansu.png" group-title="卫视",甘肃卫视标清-线路1
 http://39.134.39.39/270000001128/9900000023/index.m3u8?channel-id=newtv&Contentid=9900000023&livemode=1
-#EXTINF:-1 tvg-id="40" tvg-logo="https://epg.51zmt.top:8000/api/logo/chongqing.png" group-title="卫视",重庆卫视极清
+#EXTINF:-1 tvg-id="42" tvg-logo="https://epg.51zmt.top:8000/api/logo/gansu.png" group-title="卫视",甘肃卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000023/index.m3u8?channel-id=newtv&Contentid=9900000023&livemode=1
+#EXTINF:-1 tvg-id="40" tvg-logo="https://epg.51zmt.top:8000/api/logo/chongqing.png" group-title="卫视",重庆卫视极清-线路1
 http://39.134.39.39/270000001128/9900000517/index.m3u8?channel-id=newtv&Contentid=9900000517&livemode=1
-#EXTINF:-1 tvg-id="56" tvg-logo="https://epg.51zmt.top:8000/api/logo/sichuan.png" group-title="卫视",四川卫视标清
+#EXTINF:-1 tvg-id="40" tvg-logo="https://epg.51zmt.top:8000/api/logo/chongqing.png" group-title="卫视",重庆卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000517/index.m3u8?channel-id=newtv&Contentid=9900000517&livemode=1
+#EXTINF:-1 tvg-id="56" tvg-logo="https://epg.51zmt.top:8000/api/logo/sichuan.png" group-title="卫视",四川卫视标清-线路1
 http://39.134.39.39/270000001128/9900000025/index.m3u8?channel-id=newtv&Contentid=9900000025&livemode=1
-#EXTINF:-1 tvg-id="55" tvg-logo="https://epg.51zmt.top:8000/api/logo/shaanxi.png" group-title="卫视",陕西卫视标清
+#EXTINF:-1 tvg-id="56" tvg-logo="https://epg.51zmt.top:8000/api/logo/sichuan.png" group-title="卫视",四川卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000025/index.m3u8?channel-id=newtv&Contentid=9900000025&livemode=1
+#EXTINF:-1 tvg-id="55" tvg-logo="https://epg.51zmt.top:8000/api/logo/shaanxi.png" group-title="卫视",陕西卫视标清-线路1
 http://39.134.39.39/270000001128/9900000026/index.m3u8?channel-id=newtv&Contentid=9900000026&livemode=1
-#EXTINF:-1 tvg-id="47" tvg-logo="https://epg.51zmt.top:8000/api/logo/henan.png" group-title="卫视",河南卫视标清
+#EXTINF:-1 tvg-id="55" tvg-logo="https://epg.51zmt.top:8000/api/logo/shaanxi.png" group-title="卫视",陕西卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000026/index.m3u8?channel-id=newtv&Contentid=9900000026&livemode=1
+#EXTINF:-1 tvg-id="47" tvg-logo="https://epg.51zmt.top:8000/api/logo/henan.png" group-title="卫视",河南卫视标清-线路1
 http://39.134.39.39/270000001128/9900000027/index.m3u8?channel-id=newtv&Contentid=9900000027&livemode=1
-#EXTINF:-1 tvg-id="39" tvg-logo="https://epg.51zmt.top:8000/api/logo/tianjin.png" group-title="卫视",天津卫视极清
+#EXTINF:-1 tvg-id="47" tvg-logo="https://epg.51zmt.top:8000/api/logo/henan.png" group-title="卫视",河南卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000027/index.m3u8?channel-id=newtv&Contentid=9900000027&livemode=1
+#EXTINF:-1 tvg-id="39" tvg-logo="https://epg.51zmt.top:8000/api/logo/tianjin.png" group-title="卫视",天津卫视极清-线路1
 http://39.134.39.39/270000001128/9900000530/index.m3u8?channel-id=newtv&Contentid=9900000530&livemode=1
-#EXTINF:-1 tvg-id="36" tvg-logo="https://epg.51zmt.top:8000/api/logo/liaoning.png" group-title="卫视",辽宁卫视极清
+#EXTINF:-1 tvg-id="39" tvg-logo="https://epg.51zmt.top:8000/api/logo/tianjin.png" group-title="卫视",天津卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000530/index.m3u8?channel-id=newtv&Contentid=9900000530&livemode=1
+#EXTINF:-1 tvg-id="36" tvg-logo="https://epg.51zmt.top:8000/api/logo/liaoning.png" group-title="卫视",辽宁卫视极清-线路1
 http://39.134.39.39/270000001128/9900000526/index.m3u8?channel-id=newtv&Contentid=9900000526&livemode=1
-#EXTINF:-1 tvg-id="51" tvg-logo="https://epg.51zmt.top:8000/api/logo/jilin.png" group-title="卫视",吉林卫视标清
+#EXTINF:-1 tvg-id="36" tvg-logo="https://epg.51zmt.top:8000/api/logo/liaoning.png" group-title="卫视",辽宁卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000526/index.m3u8?channel-id=newtv&Contentid=9900000526&livemode=1
+#EXTINF:-1 tvg-id="51" tvg-logo="https://epg.51zmt.top:8000/api/logo/jilin.png" group-title="卫视",吉林卫视标清-线路1
 http://39.134.39.39/270000001128/9900000030/index.m3u8?channel-id=newtv&Contentid=9900000030&livemode=1
-#EXTINF:-1 tvg-id="46" tvg-logo="https://epg.51zmt.top:8000/api/logo/heilongjiang.png" group-title="卫视",黑龙江卫视极清
+#EXTINF:-1 tvg-id="51" tvg-logo="https://epg.51zmt.top:8000/api/logo/jilin.png" group-title="卫视",吉林卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000030/index.m3u8?channel-id=newtv&Contentid=9900000030&livemode=1
+#EXTINF:-1 tvg-id="46" tvg-logo="https://epg.51zmt.top:8000/api/logo/heilongjiang.png" group-title="卫视",黑龙江卫视极清-线路1
 http://39.134.39.39/270000001128/9900000521/index.m3u8?channel-id=newtv&Contentid=9900000521&livemode=1
-#EXTINF:-1 tvg-id="41" tvg-logo="https://epg.51zmt.top:8000/api/logo/fujian.png" group-title="卫视",东南卫视极清
+#EXTINF:-1 tvg-id="46" tvg-logo="https://epg.51zmt.top:8000/api/logo/heilongjiang.png" group-title="卫视",黑龙江卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000521/index.m3u8?channel-id=newtv&Contentid=9900000521&livemode=1
+#EXTINF:-1 tvg-id="41" tvg-logo="https://epg.51zmt.top:8000/api/logo/fujian.png" group-title="卫视",东南卫视极清-线路1
 http://39.134.39.39/270000001128/9900000519/index.m3u8?channel-id=newtv&Contentid=9900000519&livemode=1
-#EXTINF:-1 tvg-id="33" tvg-logo="https://epg.51zmt.top:8000/api/logo/guangdong.png" group-title="卫视",广东卫视极清
+#EXTINF:-1 tvg-id="41" tvg-logo="https://epg.51zmt.top:8000/api/logo/fujian.png" group-title="卫视",东南卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000519/index.m3u8?channel-id=newtv&Contentid=9900000519&livemode=1
+#EXTINF:-1 tvg-id="33" tvg-logo="https://epg.51zmt.top:8000/api/logo/guangdong.png" group-title="卫视",广东卫视极清-线路1
 http://39.134.39.39/270000001128/9900000520/index.m3u8?channel-id=newtv&Contentid=9900000520&livemode=1
-#EXTINF:-1 tvg-id="43" tvg-logo="https://epg.51zmt.top:8000/api/logo/guangxi.png" group-title="卫视",广西卫视标清
+#EXTINF:-1 tvg-id="33" tvg-logo="https://epg.51zmt.top:8000/api/logo/guangdong.png" group-title="卫视",广东卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000520/index.m3u8?channel-id=newtv&Contentid=9900000520&livemode=1
+#EXTINF:-1 tvg-id="43" tvg-logo="https://epg.51zmt.top:8000/api/logo/guangxi.png" group-title="卫视",广西卫视标清-线路1
 http://39.134.39.39/270000001128/9900000034/index.m3u8?channel-id=newtv&Contentid=9900000034&livemode=1
-#EXTINF:-1 tvg-id="58" tvg-logo="https://epg.51zmt.top:8000/api/logo/yunnan.png" group-title="卫视",云南卫视标清
+#EXTINF:-1 tvg-id="43" tvg-logo="https://epg.51zmt.top:8000/api/logo/guangxi.png" group-title="卫视",广西卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000034/index.m3u8?channel-id=newtv&Contentid=9900000034&livemode=1
+#EXTINF:-1 tvg-id="58" tvg-logo="https://epg.51zmt.top:8000/api/logo/yunnan.png" group-title="卫视",云南卫视标清-线路1
 http://39.134.39.39/270000001128/9900000035/index.m3u8?channel-id=newtv&Contentid=9900000035&livemode=1
-#EXTINF:-1 tvg-id="44" tvg-logo="https://epg.51zmt.top:8000/api/logo/guizhou.png" group-title="卫视",贵州卫视标清
+#EXTINF:-1 tvg-id="58" tvg-logo="https://epg.51zmt.top:8000/api/logo/yunnan.png" group-title="卫视",云南卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000035/index.m3u8?channel-id=newtv&Contentid=9900000035&livemode=1
+#EXTINF:-1 tvg-id="44" tvg-logo="https://epg.51zmt.top:8000/api/logo/guizhou.png" group-title="卫视",贵州卫视标清-线路1
 http://39.134.39.39/270000001128/9900000036/index.m3u8?channel-id=newtv&Contentid=9900000036&livemode=1
-#EXTINF:-1 tvg-id="37" tvg-logo="https://epg.51zmt.top:8000/api/logo/hainan.png" group-title="卫视",海南卫视标清
+#EXTINF:-1 tvg-id="44" tvg-logo="https://epg.51zmt.top:8000/api/logo/guizhou.png" group-title="卫视",贵州卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000036/index.m3u8?channel-id=newtv&Contentid=9900000036&livemode=1
+#EXTINF:-1 tvg-id="37" tvg-logo="https://epg.51zmt.top:8000/api/logo/hainan.png" group-title="卫视",海南卫视标清-线路1
 http://39.134.39.39/270000001128/9900000037/index.m3u8?channel-id=newtv&Contentid=9900000037&livemode=1
-#EXTINF:-1 tvg-id="30" tvg-logo="https://epg.51zmt.top:8000/api/logo/beijing.png" group-title="卫视",北京卫视极清
+#EXTINF:-1 tvg-id="37" tvg-logo="https://epg.51zmt.top:8000/api/logo/hainan.png" group-title="卫视",海南卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000037/index.m3u8?channel-id=newtv&Contentid=9900000037&livemode=1
+#EXTINF:-1 tvg-id="30" tvg-logo="https://epg.51zmt.top:8000/api/logo/beijing.png" group-title="卫视",北京卫视极清-线路1
 http://39.134.39.39/270000001128/9900000516/index.m3u8?channel-id=newtv&Contentid=9900000516&livemode=1
-#EXTINF:-1 tvg-id="34" tvg-logo="https://epg.51zmt.top:8000/api/logo/shenzhen.png" group-title="卫视",深圳卫视极清
+#EXTINF:-1 tvg-id="30" tvg-logo="https://epg.51zmt.top:8000/api/logo/beijing.png" group-title="卫视",北京卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000516/index.m3u8?channel-id=newtv&Contentid=9900000516&livemode=1
+#EXTINF:-1 tvg-id="34" tvg-logo="https://epg.51zmt.top:8000/api/logo/shenzhen.png" group-title="卫视",深圳卫视极清-线路1
 http://39.134.39.39/270000001128/9900000529/index.m3u8?channel-id=newtv&Contentid=9900000529&livemode=1
-#EXTINF:-1 tvg-id="59" tvg-logo="https://epg.51zmt.top:8000/api/logo/qinghai.png" group-title="卫视",青海卫视标清
+#EXTINF:-1 tvg-id="34" tvg-logo="https://epg.51zmt.top:8000/api/logo/shenzhen.png" group-title="卫视",深圳卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000529/index.m3u8?channel-id=newtv&Contentid=9900000529&livemode=1
+#EXTINF:-1 tvg-id="59" tvg-logo="https://epg.51zmt.top:8000/api/logo/qinghai.png" group-title="卫视",青海卫视标清-线路1
 http://39.134.39.39/270000001128/9900000042/index.m3u8?channel-id=newtv&Contentid=9900000042&livemode=1
-#EXTINF:-1 tvg-id="71" tvg-logo="https://epg.51zmt.top:8000/api/logo/xizang.png" group-title="卫视",西藏卫视标清
+#EXTINF:-1 tvg-id="59" tvg-logo="https://epg.51zmt.top:8000/api/logo/qinghai.png" group-title="卫视",青海卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000042/index.m3u8?channel-id=newtv&Contentid=9900000042&livemode=1
+#EXTINF:-1 tvg-id="71" tvg-logo="https://epg.51zmt.top:8000/api/logo/xizang.png" group-title="卫视",西藏卫视标清-线路1
 http://39.134.39.39/270000001128/9900000043/index.m3u8?channel-id=newtv&Contentid=9900000043&livemode=1
-#EXTINF:-1 tvg-id="52" tvg-logo="https://epg.51zmt.top:8000/api/logo/neimenggu.png" group-title="卫视",内蒙古卫视标清
+#EXTINF:-1 tvg-id="71" tvg-logo="https://epg.51zmt.top:8000/api/logo/xizang.png" group-title="卫视",西藏卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000043/index.m3u8?channel-id=newtv&Contentid=9900000043&livemode=1
+#EXTINF:-1 tvg-id="52" tvg-logo="https://epg.51zmt.top:8000/api/logo/neimenggu.png" group-title="卫视",内蒙古卫视标清-线路1
 http://39.134.39.39/270000001128/9900000044/index.m3u8?channel-id=newtv&Contentid=9900000044&livemode=1
-#EXTINF:-1 tvg-id="57" tvg-logo="https://epg.51zmt.top:8000/api/logo/xinjiang.png" group-title="卫视",新疆卫视标清
+#EXTINF:-1 tvg-id="52" tvg-logo="https://epg.51zmt.top:8000/api/logo/neimenggu.png" group-title="卫视",内蒙古卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000044/index.m3u8?channel-id=newtv&Contentid=9900000044&livemode=1
+#EXTINF:-1 tvg-id="57" tvg-logo="https://epg.51zmt.top:8000/api/logo/xinjiang.png" group-title="卫视",新疆卫视标清-线路1
 http://39.134.39.39/270000001128/9900000045/index.m3u8?channel-id=newtv&Contentid=9900000045&livemode=1
-#EXTINF:-1 tvg-id="53" tvg-logo="https://epg.51zmt.top:8000/api/logo/ningxia.png" group-title="卫视",宁夏卫视标清
+#EXTINF:-1 tvg-id="57" tvg-logo="https://epg.51zmt.top:8000/api/logo/xinjiang.png" group-title="卫视",新疆卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000045/index.m3u8?channel-id=newtv&Contentid=9900000045&livemode=1
+#EXTINF:-1 tvg-id="53" tvg-logo="https://epg.51zmt.top:8000/api/logo/ningxia.png" group-title="卫视",宁夏卫视标清-线路1
 http://39.134.39.39/270000001128/9900000047/index.m3u8?channel-id=newtv&Contentid=9900000047&livemode=1
-#EXTINF:-1 tvg-id="31" tvg-logo="https://epg.51zmt.top:8000/api/logo/dongfang.png" group-title="卫视",东方卫视极清
+#EXTINF:-1 tvg-id="53" tvg-logo="https://epg.51zmt.top:8000/api/logo/ningxia.png" group-title="卫视",宁夏卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000047/index.m3u8?channel-id=newtv&Contentid=9900000047&livemode=1
+#EXTINF:-1 tvg-id="31" tvg-logo="https://epg.51zmt.top:8000/api/logo/dongfang.png" group-title="卫视",东方卫视极清-线路1
 http://39.134.39.39/270000001128/9900000518/index.m3u8?channel-id=newtv&Contentid=9900000518&livemode=1
-#EXTINF:-1 tvg-id="29" tvg-logo="https://epg.51zmt.top:8000/api/logo/jiangsu.png" group-title="卫视",江苏卫视极清
+#EXTINF:-1 tvg-id="31" tvg-logo="https://epg.51zmt.top:8000/api/logo/dongfang.png" group-title="卫视",东方卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000518/index.m3u8?channel-id=newtv&Contentid=9900000518&livemode=1
+#EXTINF:-1 tvg-id="29" tvg-logo="https://epg.51zmt.top:8000/api/logo/jiangsu.png" group-title="卫视",江苏卫视极清-线路1
 http://39.134.39.39/270000001128/9900000524/index.m3u8?channel-id=newtv&Contentid=9900000524&livemode=1
-#EXTINF:-1 tvg-id="28" tvg-logo="https://epg.51zmt.top:8000/api/logo/zhejiang.png" group-title="卫视",浙江卫视极清
+#EXTINF:-1 tvg-id="29" tvg-logo="https://epg.51zmt.top:8000/api/logo/jiangsu.png" group-title="卫视",江苏卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000524/index.m3u8?channel-id=newtv&Contentid=9900000524&livemode=1
+#EXTINF:-1 tvg-id="28" tvg-logo="https://epg.51zmt.top:8000/api/logo/zhejiang.png" group-title="卫视",浙江卫视极清-线路1
 http://39.134.39.39/270000001128/9900000531/index.m3u8?channel-id=newtv&Contentid=9900000531&livemode=1
-#EXTINF:-1 tvg-id="32" tvg-logo="https://epg.51zmt.top:8000/api/logo/anhui.png" group-title="卫视",安徽卫视极清
+#EXTINF:-1 tvg-id="28" tvg-logo="https://epg.51zmt.top:8000/api/logo/zhejiang.png" group-title="卫视",浙江卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000531/index.m3u8?channel-id=newtv&Contentid=9900000531&livemode=1
+#EXTINF:-1 tvg-id="32" tvg-logo="https://epg.51zmt.top:8000/api/logo/anhui.png" group-title="卫视",安徽卫视极清-线路1
 http://39.134.39.39/270000001128/9900000514/index.m3u8?channel-id=newtv&Contentid=9900000514&livemode=1
-#EXTINF:-1 tvg-id="38" tvg-logo="https://epg.51zmt.top:8000/api/logo/shandong.png" group-title="卫视",山东卫视极清
+#EXTINF:-1 tvg-id="32" tvg-logo="https://epg.51zmt.top:8000/api/logo/anhui.png" group-title="卫视",安徽卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000514/index.m3u8?channel-id=newtv&Contentid=9900000514&livemode=1
+#EXTINF:-1 tvg-id="38" tvg-logo="https://epg.51zmt.top:8000/api/logo/shandong.png" group-title="卫视",山东卫视极清-线路1
 http://39.134.39.39/270000001128/9900000527/index.m3u8?channel-id=newtv&Contentid=9900000527&livemode=1
-#EXTINF:-1 tvg-id="54" tvg-logo="https://epg.51zmt.top:8000/api/logo/shanxi.png" group-title="卫视",山西卫视标清
+#EXTINF:-1 tvg-id="38" tvg-logo="https://epg.51zmt.top:8000/api/logo/shandong.png" group-title="卫视",山东卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000527/index.m3u8?channel-id=newtv&Contentid=9900000527&livemode=1
+#EXTINF:-1 tvg-id="54" tvg-logo="https://epg.51zmt.top:8000/api/logo/shanxi.png" group-title="卫视",山西卫视标清-线路1
 http://39.134.39.39/270000001128/9900000053/index.m3u8?channel-id=newtv&Contentid=9900000053&livemode=1
-#EXTINF:-1 tvg-id="27" tvg-logo="https://epg.51zmt.top:8000/api/logo/hunan.png" group-title="卫视",湖南卫视极清
+#EXTINF:-1 tvg-id="54" tvg-logo="https://epg.51zmt.top:8000/api/logo/shanxi.png" group-title="卫视",山西卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000053/index.m3u8?channel-id=newtv&Contentid=9900000053&livemode=1
+#EXTINF:-1 tvg-id="27" tvg-logo="https://epg.51zmt.top:8000/api/logo/hunan.png" group-title="卫视",湖南卫视极清-线路1
 http://39.134.39.39/270000001128/9900000523/index.m3u8?channel-id=newtv&Contentid=9900000523&livemode=1
-#EXTINF:-1 tvg-id="48" tvg-logo="https://epg.51zmt.top:8000/api/logo/hubei.png" group-title="卫视",湖北卫视极清
+#EXTINF:-1 tvg-id="27" tvg-logo="https://epg.51zmt.top:8000/api/logo/hunan.png" group-title="卫视",湖南卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000523/index.m3u8?channel-id=newtv&Contentid=9900000523&livemode=1
+#EXTINF:-1 tvg-id="48" tvg-logo="https://epg.51zmt.top:8000/api/logo/hubei.png" group-title="卫视",湖北卫视极清-线路1
 http://39.134.39.39/270000001128/9900000522/index.m3u8?channel-id=newtv&Contentid=9900000522&livemode=1
-#EXTINF:-1 tvg-id="50" tvg-logo="https://epg.51zmt.top:8000/api/logo/jiangxi.png" group-title="卫视",江西卫视极清
+#EXTINF:-1 tvg-id="48" tvg-logo="https://epg.51zmt.top:8000/api/logo/hubei.png" group-title="卫视",湖北卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000522/index.m3u8?channel-id=newtv&Contentid=9900000522&livemode=1
+#EXTINF:-1 tvg-id="50" tvg-logo="https://epg.51zmt.top:8000/api/logo/jiangxi.png" group-title="卫视",江西卫视极清-线路1
 http://39.134.39.39/270000001128/9900000525/index.m3u8?channel-id=newtv&Contentid=9900000525&livemode=1
-#EXTINF:-1 tvg-id="45" tvg-logo="https://epg.51zmt.top:8000/api/logo/hebei.png" group-title="卫视",河北卫视标清
+#EXTINF:-1 tvg-id="50" tvg-logo="https://epg.51zmt.top:8000/api/logo/jiangxi.png" group-title="卫视",江西卫视极清-线路2
+http://39.134.32.167:6610/270000001128/9900000525/index.m3u8?channel-id=newtv&Contentid=9900000525&livemode=1
+#EXTINF:-1 tvg-id="45" tvg-logo="https://epg.51zmt.top:8000/api/logo/hebei.png" group-title="卫视",河北卫视标清-线路1
 http://39.134.39.39/270000001128/9900000057/index.m3u8?channel-id=newtv&Contentid=9900000057&livemode=1
-#EXTINF:-1 tvg-id="68" tvg-logo="https://epg.51zmt.top:8000/api/logo/xiamen.png" group-title="卫视",厦门卫视标清
+#EXTINF:-1 tvg-id="45" tvg-logo="https://epg.51zmt.top:8000/api/logo/hebei.png" group-title="卫视",河北卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000057/index.m3u8?channel-id=newtv&Contentid=9900000057&livemode=1
+#EXTINF:-1 tvg-id="68" tvg-logo="https://epg.51zmt.top:8000/api/logo/xiamen.png" group-title="卫视",厦门卫视标清-线路1
 http://39.134.39.39/270000001128/9900000058/index.m3u8?channel-id=newtv&Contentid=9900000058&livemode=1
-#EXTINF:-1 tvg-id="61" tvg-logo="https://epg.51zmt.top:8000/api/logo/bingtuan.png" group-title="卫视",兵团卫视标清
+#EXTINF:-1 tvg-id="68" tvg-logo="https://epg.51zmt.top:8000/api/logo/xiamen.png" group-title="卫视",厦门卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000058/index.m3u8?channel-id=newtv&Contentid=9900000058&livemode=1
+#EXTINF:-1 tvg-id="61" tvg-logo="https://epg.51zmt.top:8000/api/logo/bingtuan.png" group-title="卫视",兵团卫视标清-线路1
 http://39.134.39.39/270000001128/9900000059/index.m3u8?channel-id=newtv&Contentid=9900000059&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/nonglin.png" group-title="卫视",农林卫视标清
+#EXTINF:-1 tvg-id="61" tvg-logo="https://epg.51zmt.top:8000/api/logo/bingtuan.png" group-title="卫视",兵团卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000059/index.m3u8?channel-id=newtv&Contentid=9900000059&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/nonglin.png" group-title="卫视",农林卫视标清-线路1
 http://39.134.39.39/270000001128/9900000060/index.m3u8?channel-id=newtv&Contentid=9900000060&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/anduo.png" group-title="卫视",安多卫视标清
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/nonglin.png" group-title="卫视",农林卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000060/index.m3u8?channel-id=newtv&Contentid=9900000060&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/anduo.png" group-title="卫视",安多卫视标清-线路1
 http://39.134.39.39/270000001128/9900000064/index.m3u8?channel-id=newtv&Contentid=9900000064&livemode=1
-#EXTINF:-1 tvg-id="70" tvg-logo="https://epg.51zmt.top:8000/api/logo/kangba.png" group-title="卫视",康巴卫视标清
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/anduo.png" group-title="卫视",安多卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000064/index.m3u8?channel-id=newtv&Contentid=9900000064&livemode=1
+#EXTINF:-1 tvg-id="70" tvg-logo="https://epg.51zmt.top:8000/api/logo/kangba.png" group-title="卫视",康巴卫视标清-线路1
 http://39.134.39.39/270000001128/9900000066/index.m3u8?channel-id=newtv&Contentid=9900000066&livemode=1
-#EXTINF:-1 tvg-id="46" tvg-logo="https://epg.51zmt.top:8000/api/logo/heilongjiang.png" group-title="卫视",黑龙江卫视高清
+#EXTINF:-1 tvg-id="70" tvg-logo="https://epg.51zmt.top:8000/api/logo/kangba.png" group-title="卫视",康巴卫视标清-线路2
+http://39.134.32.167:6610/270000001128/9900000066/index.m3u8?channel-id=newtv&Contentid=9900000066&livemode=1
+#EXTINF:-1 tvg-id="46" tvg-logo="https://epg.51zmt.top:8000/api/logo/heilongjiang.png" group-title="卫视",黑龙江卫视高清-线路1
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226849/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/zangyu.png" group-title="卫视",藏语频道标清
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/zangyu.png" group-title="卫视",藏语频道标清-线路1
 http://39.134.39.39/270000001128/9900000093/index.m3u8?channel-id=newtv&Contentid=9900000093&livemode=1
-#EXTINF:-1 tvg-id="63" tvg-logo="https://epg.51zmt.top:8000/api/logo/yanbian.png" group-title="卫视",延边卫视
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/zangyu.png" group-title="卫视",藏语频道标清-线路2
+http://39.134.32.167:6610/270000001128/9900000093/index.m3u8?channel-id=newtv&Contentid=9900000093&livemode=1
+#EXTINF:-1 tvg-id="63" tvg-logo="https://epg.51zmt.top:8000/api/logo/yanbian.png" group-title="卫视",延边卫视-线路1
 http://39.134.39.39/270000001128/9900000073/index.m3u8?channel-id=newtv&Contentid=9900000073&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansuwenhua.png" group-title="甘肃本地",甘肃文化影视高清
+#EXTINF:-1 tvg-id="63" tvg-logo="https://epg.51zmt.top:8000/api/logo/yanbian.png" group-title="卫视",延边卫视-线路2
+http://39.134.32.167:6610/270000001128/9900000073/index.m3u8?channel-id=newtv&Contentid=9900000073&livemode=1
+#EXTINF:-1 tvg-id="1864" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv16.png" group-title="4K",CCTV-16 4K-线路1
+http://39.134.39.39/270000001128/9900000535/index.m3u8?channel-id=newtv&Contentid=9900000535&livemode=1
+#EXTINF:-1 tvg-id="1864" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv16.png" group-title="4K",CCTV-16 4K-线路2
+http://39.134.32.167:6610/270000001128/9900000535/index.m3u8?channel-id=newtv&Contentid=9900000535&livemode=1
+#EXTINF:-1 tvg-id="27" tvg-logo="https://epg.51zmt.top:8000/api/logo/hunan.png" group-title="4K",湖南卫视4K-线路1
+http://39.134.39.39/270000001111/1110000385/index.m3u8?channel-id=bestzb&Contentid=1110000385&livemode=1
+#EXTINF:-1 tvg-id="27" tvg-logo="https://epg.51zmt.top:8000/api/logo/hunan.png" group-title="4K",湖南卫视4K-线路2
+http://39.134.32.167:6610/270000001111/1110000385/index.m3u8?channel-id=bestzb&Contentid=1110000385&livemode=1
+#EXTINF:-1 tvg-id="28" tvg-logo="https://epg.51zmt.top:8000/api/logo/zhejiang.png" group-title="4K",浙江卫视4K-线路1
+http://39.134.39.39/270000001111/1110000390/index.m3u8?channel-id=bestzb&Contentid=1110000390&livemode=1
+#EXTINF:-1 tvg-id="28" tvg-logo="https://epg.51zmt.top:8000/api/logo/zhejiang.png" group-title="4K",浙江卫视4K-线路2
+http://39.134.32.167:6610/270000001111/1110000390/index.m3u8?channel-id=bestzb&Contentid=1110000390&livemode=1
+#EXTINF:-1 tvg-id="29" tvg-logo="https://epg.51zmt.top:8000/api/logo/jiangsu.png" group-title="4K",江苏卫视4K-线路1
+http://39.134.39.39/270000001111/1110000386/index.m3u8?channel-id=bestzb&Contentid=1110000386&livemode=1
+#EXTINF:-1 tvg-id="29" tvg-logo="https://epg.51zmt.top:8000/api/logo/jiangsu.png" group-title="4K",江苏卫视4K-线路2
+http://39.134.32.167:6610/270000001111/1110000386/index.m3u8?channel-id=bestzb&Contentid=1110000386&livemode=1
+#EXTINF:-1 tvg-id="30" tvg-logo="https://epg.51zmt.top:8000/api/logo/beijing.png" group-title="4K",北京卫视4K-线路1
+http://39.134.39.39/270000001111/1110000382/index.m3u8?channel-id=bestzb&Contentid=1110000382&livemode=1
+#EXTINF:-1 tvg-id="30" tvg-logo="https://epg.51zmt.top:8000/api/logo/beijing.png" group-title="4K",北京卫视4K-线路2
+http://39.134.32.167:6610/270000001111/1110000382/index.m3u8?channel-id=bestzb&Contentid=1110000382&livemode=1
+#EXTINF:-1 tvg-id="31" tvg-logo="https://epg.51zmt.top:8000/api/logo/dongfang.png" group-title="4K",东方卫视4K-线路1
+http://39.134.39.39/270000001111/1110000383/index.m3u8?channel-id=bestzb&Contentid=1110000383&livemode=1
+#EXTINF:-1 tvg-id="31" tvg-logo="https://epg.51zmt.top:8000/api/logo/dongfang.png" group-title="4K",东方卫视4K-线路2
+http://39.134.32.167:6610/270000001111/1110000383/index.m3u8?channel-id=bestzb&Contentid=1110000383&livemode=1
+#EXTINF:-1 tvg-id="33" tvg-logo="https://epg.51zmt.top:8000/api/logo/guangdong.png" group-title="4K",广东卫视4K-线路1
+http://39.134.39.39/270000001111/1110000384/index.m3u8?channel-id=bestzb&Contentid=1110000384&livemode=1
+#EXTINF:-1 tvg-id="33" tvg-logo="https://epg.51zmt.top:8000/api/logo/guangdong.png" group-title="4K",广东卫视4K-线路2
+http://39.134.32.167:6610/270000001111/1110000384/index.m3u8?channel-id=bestzb&Contentid=1110000384&livemode=1
+#EXTINF:-1 tvg-id="34" tvg-logo="https://epg.51zmt.top:8000/api/logo/shenzhen.png" group-title="4K",深圳卫视4K-线路1
+http://39.134.39.39/270000001111/1110000388/index.m3u8?channel-id=bestzb&Contentid=1110000388&livemode=1
+#EXTINF:-1 tvg-id="34" tvg-logo="https://epg.51zmt.top:8000/api/logo/shenzhen.png" group-title="4K",深圳卫视4K-线路2
+http://39.134.32.167:6610/270000001111/1110000388/index.m3u8?channel-id=bestzb&Contentid=1110000388&livemode=1
+#EXTINF:-1 tvg-id="38" tvg-logo="https://epg.51zmt.top:8000/api/logo/shandong.png" group-title="4K",山东卫视4K-线路1
+http://39.134.39.39/270000001111/1110000387/index.m3u8?channel-id=bestzb&Contentid=1110000387&livemode=1
+#EXTINF:-1 tvg-id="38" tvg-logo="https://epg.51zmt.top:8000/api/logo/shandong.png" group-title="4K",山东卫视4K-线路2
+http://39.134.32.167:6610/270000001111/1110000387/index.m3u8?channel-id=bestzb&Contentid=1110000387&livemode=1
+#EXTINF:-1 tvg-id="56" tvg-logo="https://epg.51zmt.top:8000/api/logo/sichuan.png" group-title="4K",四川卫视4K-线路1
+http://39.134.39.39/270000001111/1110000389/index.m3u8?channel-id=bestzb&Contentid=1110000389&livemode=1
+#EXTINF:-1 tvg-id="56" tvg-logo="https://epg.51zmt.top:8000/api/logo/sichuan.png" group-title="4K",四川卫视4K-线路2
+http://39.134.32.167:6610/270000001111/1110000389/index.m3u8?channel-id=bestzb&Contentid=1110000389&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="4K",CCTV-4K 超高清-线路1
+http://39.134.39.39/270000001111/1110000381/index.m3u8?channel-id=bestzb&Contentid=1110000381&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="4K",CCTV-4K 超高清-线路2
+http://39.134.32.167:6610/270000001111/1110000381/index.m3u8?channel-id=bestzb&Contentid=1110000381&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansuwenhua.png" group-title="甘肃",甘肃文化影视高清-线路1
 http://39.134.39.39/270000001111/1110000320/index.m3u8?channel-id=bestzb&Contentid=1110000320&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansugonggong.png" group-title="甘肃本地",甘肃公共高清
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansuwenhua.png" group-title="甘肃",甘肃文化影视高清-线路2
+http://39.134.32.167:6610/270000001111/1110000320/index.m3u8?channel-id=bestzb&Contentid=1110000320&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansugonggong.png" group-title="甘肃",甘肃公共高清-线路1
 http://39.134.39.39/270000001111/1110000321/index.m3u8?channel-id=bestzb&Contentid=1110000321&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansushaoer.png" group-title="甘肃本地",甘肃少儿高清
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansugonggong.png" group-title="甘肃",甘肃公共高清-线路2
+http://39.134.32.167:6610/270000001111/1110000321/index.m3u8?channel-id=bestzb&Contentid=1110000321&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansushaoer.png" group-title="甘肃",甘肃少儿高清-线路1
 http://39.134.39.39/270000001111/1110000323/index.m3u8?channel-id=bestzb&Contentid=1110000323&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansukejiao.png" group-title="甘肃本地",甘肃科教高清
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansushaoer.png" group-title="甘肃",甘肃少儿高清-线路2
+http://39.134.32.167:6610/270000001111/1110000323/index.m3u8?channel-id=bestzb&Contentid=1110000323&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansukejiao.png" group-title="甘肃",甘肃科教高清-线路1
 http://39.134.39.39/270000001111/1110000322/index.m3u8?channel-id=bestzb&Contentid=1110000322&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",酒泉
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/gansukejiao.png" group-title="甘肃",甘肃科教高清-线路2
+http://39.134.32.167:6610/270000001111/1110000322/index.m3u8?channel-id=bestzb&Contentid=1110000322&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",酒泉-线路1
 http://39.134.39.39/270000001111/1110000362/index.m3u8?channel-id=bestzb&Contentid=1110000362&livemode=1
 http://39.134.33.100:6610/270000001111/1110000362/index.m3u8?channel-id=bestzb&Contentid=1110000362&livemode=1
 http://39.134.33.101:6610/270000001111/1110000362/index.m3u8?channel-id=bestzb&Contentid=1110000362&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",金塔
+#EXTINF:-1 tvg-logo="" group-title="甘肃",酒泉-线路2
+http://39.134.32.167:6610/270000001111/1110000362/index.m3u8?channel-id=bestzb&Contentid=1110000362&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",金塔-线路1
 http://39.134.39.39/270000001111/1110000361/index.m3u8?channel-id=bestzb&Contentid=1110000361&livemode=1
 http://39.134.33.100:6610/270000001111/1110000361/index.m3u8?channel-id=bestzb&Contentid=1110000361&livemode=1
 http://39.134.33.101:6610/270000001111/1110000361/index.m3u8?channel-id=bestzb&Contentid=1110000361&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",玉门
+#EXTINF:-1 tvg-logo="" group-title="甘肃",金塔-线路2
+http://39.134.32.167:6610/270000001111/1110000361/index.m3u8?channel-id=bestzb&Contentid=1110000361&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",玉门-线路1
 http://39.134.39.39/270000001111/1110000377/index.m3u8?channel-id=bestzb&Contentid=1110000377&livemode=1
 http://39.134.33.100:6610/270000001111/1110000377/index.m3u8?channel-id=bestzb&Contentid=1110000377&livemode=1
 http://39.134.33.101:6610/270000001111/1110000377/index.m3u8?channel-id=bestzb&Contentid=1110000377&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",敦煌
+#EXTINF:-1 tvg-logo="" group-title="甘肃",玉门-线路2
+http://39.134.32.167:6610/270000001111/1110000377/index.m3u8?channel-id=bestzb&Contentid=1110000377&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",敦煌-线路1
 http://39.134.39.39/270000001111/1110000371/index.m3u8?channel-id=bestzb&Contentid=1110000371&livemode=1
 http://39.134.33.100:6610/270000001111/1110000371/index.m3u8?channel-id=bestzb&Contentid=1110000371&livemode=1
 http://39.134.33.101:6610/270000001111/1110000371/index.m3u8?channel-id=bestzb&Contentid=1110000371&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",阿克塞
+#EXTINF:-1 tvg-logo="" group-title="甘肃",敦煌-线路2
+http://39.134.32.167:6610/270000001111/1110000371/index.m3u8?channel-id=bestzb&Contentid=1110000371&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",阿克塞-线路1
 http://39.134.39.39/270000001111/1110000368/index.m3u8?channel-id=bestzb&Contentid=1110000368&livemode=1
 http://39.134.33.100:6610/270000001111/1110000368/index.m3u8?channel-id=bestzb&Contentid=1110000368&livemode=1
 http://39.134.33.101:6610/270000001111/1110000368/index.m3u8?channel-id=bestzb&Contentid=1110000368&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",庄浪
+#EXTINF:-1 tvg-logo="" group-title="甘肃",阿克塞-线路2
+http://39.134.32.167:6610/270000001111/1110000368/index.m3u8?channel-id=bestzb&Contentid=1110000368&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",庄浪-线路1
 http://39.134.39.39/270000001111/1110000378/index.m3u8?channel-id=bestzb&Contentid=1110000378&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",定西综合
+#EXTINF:-1 tvg-logo="" group-title="甘肃",庄浪-线路2
+http://39.134.32.167:6610/270000001111/1110000378/index.m3u8?channel-id=bestzb&Contentid=1110000378&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",定西综合-线路1
 http://39.134.39.39/270000001111/1110000393/index.m3u8?channel-id=bestzb&Contentid=1110000393&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",定西文旅生活
+#EXTINF:-1 tvg-logo="" group-title="甘肃",定西综合-线路2
+http://39.134.32.167:6610/270000001111/1110000393/index.m3u8?channel-id=bestzb&Contentid=1110000393&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",定西文旅生活-线路1
 http://39.134.39.39/270000001111/1110000394/index.m3u8?channel-id=bestzb&Contentid=1110000394&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",临洮综合
+#EXTINF:-1 tvg-logo="" group-title="甘肃",定西文旅生活-线路2
+http://39.134.32.167:6610/270000001111/1110000394/index.m3u8?channel-id=bestzb&Contentid=1110000394&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",临洮综合-线路1
 http://39.134.39.39/270000001111/1110000395/index.m3u8?channel-id=bestzb&Contentid=1110000395&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",天祝综合
+#EXTINF:-1 tvg-logo="" group-title="甘肃",临洮综合-线路2
+http://39.134.32.167:6610/270000001111/1110000395/index.m3u8?channel-id=bestzb&Contentid=1110000395&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",天祝综合-线路1
 http://39.134.39.39/270000001111/1110000399/index.m3u8?channel-id=bestzb&Contentid=1110000399&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",武威综合
+#EXTINF:-1 tvg-logo="" group-title="甘肃",天祝综合-线路2
+http://39.134.32.167:6610/270000001111/1110000399/index.m3u8?channel-id=bestzb&Contentid=1110000399&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",武威综合-线路1
 http://39.134.39.39/270000001111/1110000400/index.m3u8?channel-id=bestzb&Contentid=1110000400&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",凉州
+#EXTINF:-1 tvg-logo="" group-title="甘肃",武威综合-线路2
+http://39.134.32.167:6610/270000001111/1110000400/index.m3u8?channel-id=bestzb&Contentid=1110000400&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",凉州-线路1
 http://39.134.39.39/270000001111/1110000401/index.m3u8?channel-id=bestzb&Contentid=1110000401&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="甘肃本地",灵台
+#EXTINF:-1 tvg-logo="" group-title="甘肃",凉州-线路2
+http://39.134.32.167:6610/270000001111/1110000401/index.m3u8?channel-id=bestzb&Contentid=1110000401&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="甘肃",灵台-线路1
 http://39.134.39.39/270000001111/1110000402/index.m3u8?channel-id=bestzb&Contentid=1110000402&livemode=1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="甘肃本地",民勤综合
+#EXTINF:-1 tvg-logo="" group-title="甘肃",灵台-线路2
+http://39.134.32.167:6610/270000001111/1110000402/index.m3u8?channel-id=bestzb&Contentid=1110000402&livemode=1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="甘肃",民勤综合-线路1
 http://39.134.39.39/270000001111/1110000396/index.m3u8?channel-id=bestzb&Contentid=1110000396&livemode=1
-#EXTINF:-1 tvg-id="73" tvg-logo="https://epg.51zmt.top:8000/api/logo/cetv1.png" group-title="教育",中国教育标清
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="甘肃",民勤综合-线路2
+http://39.134.32.167:6610/270000001111/1110000396/index.m3u8?channel-id=bestzb&Contentid=1110000396&livemode=1
+#EXTINF:-1 tvg-id="73" tvg-logo="https://epg.51zmt.top:8000/api/logo/cetv1.png" group-title="教育",中国教育标清-线路1
 http://39.134.39.39/270000001128/9900000046/index.m3u8?channel-id=newtv&Contentid=9900000046&livemode=1
-#EXTINF:-1 tvg-id="74" tvg-logo="https://epg.51zmt.top:8000/api/logo/cetv2.png" group-title="教育",CETV2标清
+#EXTINF:-1 tvg-id="73" tvg-logo="https://epg.51zmt.top:8000/api/logo/cetv1.png" group-title="教育",中国教育标清-线路2
+http://39.134.32.167:6610/270000001128/9900000046/index.m3u8?channel-id=newtv&Contentid=9900000046&livemode=1
+#EXTINF:-1 tvg-id="74" tvg-logo="https://epg.51zmt.top:8000/api/logo/cetv2.png" group-title="教育",CETV2标清-线路1
 http://39.134.39.39/270000001128/9900000071/index.m3u8?channel-id=newtv&Contentid=9900000071&livemode=1
-#EXTINF:-1 tvg-id="1860" tvg-logo="https://epg.51zmt.top:8000/api/logo/cetv4.png" group-title="教育",CETV4标清
+#EXTINF:-1 tvg-id="74" tvg-logo="https://epg.51zmt.top:8000/api/logo/cetv2.png" group-title="教育",CETV2标清-线路2
+http://39.134.32.167:6610/270000001128/9900000071/index.m3u8?channel-id=newtv&Contentid=9900000071&livemode=1
+#EXTINF:-1 tvg-id="1860" tvg-logo="https://epg.51zmt.top:8000/api/logo/cetv4.png" group-title="教育",CETV4标清-线路1
 http://39.134.39.39/270000001128/9900000072/index.m3u8?channel-id=newtv&Contentid=9900000072&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/shandongjy.png" group-title="教育",山东教育
+#EXTINF:-1 tvg-id="1860" tvg-logo="https://epg.51zmt.top:8000/api/logo/cetv4.png" group-title="教育",CETV4标清-线路2
+http://39.134.32.167:6610/270000001128/9900000072/index.m3u8?channel-id=newtv&Contentid=9900000072&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/shandongjy.png" group-title="教育",山东教育-线路1
 http://39.134.39.39/270000001128/9900000067/index.m3u8?channel-id=newtv&Contentid=9900000067&livemode=1
-#EXTINF:-1 tvg-id="69" tvg-logo="https://epg.51zmt.top:8000/api/logo/jinyingcartoon.png" group-title="少儿卡通",金鹰卡通标清
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/shandongjy.png" group-title="教育",山东教育-线路2
+http://39.134.32.167:6610/270000001128/9900000067/index.m3u8?channel-id=newtv&Contentid=9900000067&livemode=1
+#EXTINF:-1 tvg-id="69" tvg-logo="https://epg.51zmt.top:8000/api/logo/jinyingcartoon.png" group-title="少儿卡通",金鹰卡通标清-线路1
 http://39.134.39.39/270000001128/9900000039/index.m3u8?channel-id=newtv&Contentid=9900000039&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/kaku.png" group-title="少儿卡通",卡酷卡通标清
+#EXTINF:-1 tvg-id="69" tvg-logo="https://epg.51zmt.top:8000/api/logo/jinyingcartoon.png" group-title="少儿卡通",金鹰卡通标清-线路2
+http://39.134.32.167:6610/270000001128/9900000039/index.m3u8?channel-id=newtv&Contentid=9900000039&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/kaku.png" group-title="少儿卡通",卡酷卡通标清-线路1
 http://39.134.39.39/270000001128/9900000040/index.m3u8?channel-id=newtv&Contentid=9900000040&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/jiajia.png" group-title="少儿卡通",嘉佳卡通
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/kaku.png" group-title="少儿卡通",卡酷卡通标清-线路2
+http://39.134.32.167:6610/270000001128/9900000040/index.m3u8?channel-id=newtv&Contentid=9900000040&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/jiajia.png" group-title="少儿卡通",嘉佳卡通-线路1
 http://39.134.39.39/270000001128/9900000061/index.m3u8?channel-id=newtv&Contentid=9900000061&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/youman.png" group-title="少儿卡通",优漫卡通
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/jiajia.png" group-title="少儿卡通",嘉佳卡通-线路2
+http://39.134.32.167:6610/270000001128/9900000061/index.m3u8?channel-id=newtv&Contentid=9900000061&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/youman.png" group-title="少儿卡通",优漫卡通-线路1
 http://39.134.39.39/270000001128/9900000070/index.m3u8?channel-id=newtv&Contentid=9900000070&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="少儿卡通",黑莓动画
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/youman.png" group-title="少儿卡通",优漫卡通-线路2
+http://39.134.32.167:6610/270000001128/9900000070/index.m3u8?channel-id=newtv&Contentid=9900000070&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="少儿卡通",黑莓动画-线路1
 http://39.134.39.39/270000001128/9900000096/index.m3u8?channel-id=newtv&Contentid=9900000096&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/beijingjishi.png" group-title="纪实",北京纪实极清
+#EXTINF:-1 tvg-logo="" group-title="少儿卡通",黑莓动画-线路2
+http://39.134.32.167:6610/270000001128/9900000096/index.m3u8?channel-id=newtv&Contentid=9900000096&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/beijingjishi.png" group-title="纪实",北京纪实极清-线路1
 http://39.134.39.39/270000001128/9900000515/index.m3u8?channel-id=newtv&Contentid=9900000515&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/jinyingjishi.png" group-title="纪实",金鹰纪实
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/beijingjishi.png" group-title="纪实",北京纪实极清-线路2
+http://39.134.32.167:6610/270000001128/9900000515/index.m3u8?channel-id=newtv&Contentid=9900000515&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/jinyingjishi.png" group-title="纪实",金鹰纪实-线路1
 http://39.134.39.39/270000001128/9900000074/index.m3u8?channel-id=newtv&Contentid=9900000074&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="纪实",军事评论
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/jinyingjishi.png" group-title="纪实",金鹰纪实-线路2
+http://39.134.32.167:6610/270000001128/9900000074/index.m3u8?channel-id=newtv&Contentid=9900000074&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="纪实",军事评论-线路1
 http://39.134.39.39/270000001128/9900000110/index.m3u8?channel-id=newtv&Contentid=9900000110&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/supermovie.png" group-title="影视剧场",超级电影高清
+#EXTINF:-1 tvg-logo="" group-title="纪实",军事评论-线路2
+http://39.134.32.167:6610/270000001128/9900000110/index.m3u8?channel-id=newtv&Contentid=9900000110&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/supermovie.png" group-title="影视剧场",超级电影高清-线路1
 http://39.134.39.39/270000001128/9900000021/index.m3u8?channel-id=newtv&Contentid=9900000021&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/superdrama.png" group-title="影视剧场",超级电视剧高清
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/supermovie.png" group-title="影视剧场",超级电影高清-线路2
+http://39.134.32.167:6610/270000001128/9900000021/index.m3u8?channel-id=newtv&Contentid=9900000021&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/superdrama.png" group-title="影视剧场",超级电视剧高清-线路1
 http://39.134.39.39/270000001128/9900000022/index.m3u8?channel-id=newtv&Contentid=9900000022&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="影视剧场",东北热剧
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/superdrama.png" group-title="影视剧场",超级电视剧高清-线路2
+http://39.134.32.167:6610/270000001128/9900000022/index.m3u8?channel-id=newtv&Contentid=9900000022&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",东北热剧-线路1
 http://39.134.39.39/270000001128/9900000092/index.m3u8?channel-id=newtv&Contentid=9900000092&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="影视剧场",黑莓电影
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",东北热剧-线路2
+http://39.134.32.167:6610/270000001128/9900000092/index.m3u8?channel-id=newtv&Contentid=9900000092&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",黑莓电影-线路1
 http://39.134.39.39/270000001128/9900000095/index.m3u8?channel-id=newtv&Contentid=9900000095&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="影视剧场",精品大剧
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",黑莓电影-线路2
+http://39.134.32.167:6610/270000001128/9900000095/index.m3u8?channel-id=newtv&Contentid=9900000095&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",精品大剧-线路1
 http://39.134.39.39/270000001128/9900000100/index.m3u8?channel-id=newtv&Contentid=9900000100&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="影视剧场",动作电影
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",精品大剧-线路2
+http://39.134.32.167:6610/270000001128/9900000100/index.m3u8?channel-id=newtv&Contentid=9900000100&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",动作电影-线路1
 http://39.134.39.39/270000001128/9900000106/index.m3u8?channel-id=newtv&Contentid=9900000106&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="影视剧场",军旅剧场
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",动作电影-线路2
+http://39.134.32.167:6610/270000001128/9900000106/index.m3u8?channel-id=newtv&Contentid=9900000106&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",军旅剧场-线路1
 http://39.134.39.39/270000001128/9900000107/index.m3u8?channel-id=newtv&Contentid=9900000107&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="影视剧场",家庭剧场
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",军旅剧场-线路2
+http://39.134.32.167:6610/270000001128/9900000107/index.m3u8?channel-id=newtv&Contentid=9900000107&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",家庭剧场-线路1
 http://39.134.39.39/270000001128/9900000108/index.m3u8?channel-id=newtv&Contentid=9900000108&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="影视剧场",烽烟剧场
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",家庭剧场-线路2
+http://39.134.32.167:6610/270000001128/9900000108/index.m3u8?channel-id=newtv&Contentid=9900000108&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",烽烟剧场-线路1
 http://39.134.39.39/270000001128/9900000109/index.m3u8?channel-id=newtv&Contentid=9900000109&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="影视剧场",热播精选
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",烽烟剧场-线路2
+http://39.134.32.167:6610/270000001128/9900000109/index.m3u8?channel-id=newtv&Contentid=9900000109&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",热播精选-线路1
 http://39.134.39.39/270000001128/9900000115/index.m3u8?channel-id=newtv&Contentid=9900000115&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="影视剧场",爱情喜剧
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",热播精选-线路2
+http://39.134.32.167:6610/270000001128/9900000115/index.m3u8?channel-id=newtv&Contentid=9900000115&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",爱情喜剧-线路1
 http://39.134.39.39/270000001128/9900000104/index.m3u8?channel-id=newtv&Contentid=9900000104&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="影视剧场",欢乐剧场
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",爱情喜剧-线路2
+http://39.134.32.167:6610/270000001128/9900000104/index.m3u8?channel-id=newtv&Contentid=9900000104&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",欢乐剧场-线路1
 http://39.134.39.39/270000001128/9900000091/index.m3u8?channel-id=newtv&Contentid=9900000091&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="影视剧场",古装剧场
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",欢乐剧场-线路2
+http://39.134.32.167:6610/270000001128/9900000091/index.m3u8?channel-id=newtv&Contentid=9900000091&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",古装剧场-线路1
 http://39.134.39.39/270000001128/9900000105/index.m3u8?channel-id=newtv&Contentid=9900000105&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/superzy.png" group-title="综艺",超级综艺高清
+#EXTINF:-1 tvg-logo="" group-title="影视剧场",古装剧场-线路2
+http://39.134.32.167:6610/270000001128/9900000105/index.m3u8?channel-id=newtv&Contentid=9900000105&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/superzy.png" group-title="综艺",超级综艺高清-线路1
 http://39.134.39.39/270000001128/9900000019/index.m3u8?channel-id=newtv&Contentid=9900000019&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="综艺",炫舞未来
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/superzy.png" group-title="综艺",超级综艺高清-线路2
+http://39.134.32.167:6610/270000001128/9900000019/index.m3u8?channel-id=newtv&Contentid=9900000019&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="综艺",炫舞未来-线路1
 http://39.134.39.39/270000001128/9900000098/index.m3u8?channel-id=newtv&Contentid=9900000098&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="综艺",潮妈辣婆
+#EXTINF:-1 tvg-logo="" group-title="综艺",炫舞未来-线路2
+http://39.134.32.167:6610/270000001128/9900000098/index.m3u8?channel-id=newtv&Contentid=9900000098&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="综艺",潮妈辣婆-线路1
 http://39.134.39.39/270000001128/9900000099/index.m3u8?channel-id=newtv&Contentid=9900000099&livemode=1
-#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/supersport.png" group-title="体育",超级体育高清
+#EXTINF:-1 tvg-logo="" group-title="综艺",潮妈辣婆-线路2
+http://39.134.32.167:6610/270000001128/9900000099/index.m3u8?channel-id=newtv&Contentid=9900000099&livemode=1
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/supersport.png" group-title="体育",超级体育高清-线路1
 http://39.134.39.39/270000001128/9900000020/index.m3u8?channel-id=newtv&Contentid=9900000020&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="体育",中国功夫
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8000/api/logo/supersport.png" group-title="体育",超级体育高清-线路2
+http://39.134.32.167:6610/270000001128/9900000020/index.m3u8?channel-id=newtv&Contentid=9900000020&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",中国功夫-线路1
 http://39.134.39.39/270000001128/9900000101/index.m3u8?channel-id=newtv&Contentid=9900000101&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="体育",精品体育
+#EXTINF:-1 tvg-logo="" group-title="体育",中国功夫-线路2
+http://39.134.32.167:6610/270000001128/9900000101/index.m3u8?channel-id=newtv&Contentid=9900000101&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",精品体育-线路1
 http://39.134.39.39/270000001128/9900000102/index.m3u8?channel-id=newtv&Contentid=9900000102&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="体育",哒啵赛事
+#EXTINF:-1 tvg-logo="" group-title="体育",精品体育-线路2
+http://39.134.32.167:6610/270000001128/9900000102/index.m3u8?channel-id=newtv&Contentid=9900000102&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",哒啵赛事-线路1
 http://39.134.39.39/270000001128/9900000097/index.m3u8?channel-id=newtv&Contentid=9900000097&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="体育",哒啵电竞
+#EXTINF:-1 tvg-logo="" group-title="体育",哒啵赛事-线路2
+http://39.134.32.167:6610/270000001128/9900000097/index.m3u8?channel-id=newtv&Contentid=9900000097&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",哒啵电竞-线路1
 http://39.134.39.39/270000001128/9900000121/index.m3u8?channel-id=newtv&Contentid=9900000121&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="体育",睛彩篮球
+#EXTINF:-1 tvg-logo="" group-title="体育",哒啵电竞-线路2
+http://39.134.32.167:6610/270000001128/9900000121/index.m3u8?channel-id=newtv&Contentid=9900000121&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",睛彩篮球-线路1
 http://39.134.39.39/270000001128/9900000118/index.m3u8?channel-id=newtv&Contentid=9900000118&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="体育",睛彩竞技
+#EXTINF:-1 tvg-logo="" group-title="体育",睛彩篮球-线路2
+http://39.134.32.167:6610/270000001128/9900000118/index.m3u8?channel-id=newtv&Contentid=9900000118&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",睛彩竞技-线路1
 http://39.134.39.39/270000001128/9900000119/index.m3u8?channel-id=newtv&Contentid=9900000119&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="体育",睛彩青少年
+#EXTINF:-1 tvg-logo="" group-title="体育",睛彩竞技-线路2
+http://39.134.32.167:6610/270000001128/9900000119/index.m3u8?channel-id=newtv&Contentid=9900000119&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",睛彩青少年-线路1
 http://39.134.39.39/270000001128/9900000120/index.m3u8?channel-id=newtv&Contentid=9900000120&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="体育",睛彩广场舞
+#EXTINF:-1 tvg-logo="" group-title="体育",睛彩青少年-线路2
+http://39.134.32.167:6610/270000001128/9900000120/index.m3u8?channel-id=newtv&Contentid=9900000120&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="体育",睛彩广场舞-线路1
 http://39.134.39.39/270000001128/9900000532/index.m3u8?channel-id=newtv&Contentid=9900000532&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="生活健康",高尔夫
+#EXTINF:-1 tvg-logo="" group-title="体育",睛彩广场舞-线路2
+http://39.134.32.167:6610/270000001128/9900000532/index.m3u8?channel-id=newtv&Contentid=9900000532&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="生活健康",高尔夫-线路1
 http://39.134.39.39/270000001128/9900000094/index.m3u8?channel-id=newtv&Contentid=9900000094&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="生活健康",怡伴健康
+#EXTINF:-1 tvg-logo="" group-title="生活健康",高尔夫-线路2
+http://39.134.32.167:6610/270000001128/9900000094/index.m3u8?channel-id=newtv&Contentid=9900000094&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="生活健康",怡伴健康-线路1
 http://39.134.39.39/270000001128/9900000103/index.m3u8?channel-id=newtv&Contentid=9900000103&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="生活健康",农业致富
+#EXTINF:-1 tvg-logo="" group-title="生活健康",怡伴健康-线路2
+http://39.134.32.167:6610/270000001128/9900000103/index.m3u8?channel-id=newtv&Contentid=9900000103&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="生活健康",农业致富-线路1
 http://39.134.39.39/270000001128/9900000111/index.m3u8?channel-id=newtv&Contentid=9900000111&livemode=1
-#EXTINF:-1 tvg-id="1864" tvg-logo="https://epg.51zmt.top:8000/api/logo/cctv16.png" group-title="4K",CCTV-16 4K
-http://39.134.39.39/270000001128/9900000535/index.m3u8?channel-id=newtv&Contentid=9900000535&livemode=1
-#EXTINF:-1 tvg-id="27" tvg-logo="https://epg.51zmt.top:8000/api/logo/hunan.png" group-title="4K",湖南卫视4K
-http://39.134.39.39/270000001111/1110000385/index.m3u8?channel-id=bestzb&Contentid=1110000385&livemode=1
-#EXTINF:-1 tvg-id="28" tvg-logo="https://epg.51zmt.top:8000/api/logo/zhejiang.png" group-title="4K",浙江卫视4K
-http://39.134.39.39/270000001111/1110000390/index.m3u8?channel-id=bestzb&Contentid=1110000390&livemode=1
-#EXTINF:-1 tvg-id="29" tvg-logo="https://epg.51zmt.top:8000/api/logo/jiangsu.png" group-title="4K",江苏卫视4K
-http://39.134.39.39/270000001111/1110000386/index.m3u8?channel-id=bestzb&Contentid=1110000386&livemode=1
-#EXTINF:-1 tvg-id="30" tvg-logo="https://epg.51zmt.top:8000/api/logo/beijing.png" group-title="4K",北京卫视4K
-http://39.134.39.39/270000001111/1110000382/index.m3u8?channel-id=bestzb&Contentid=1110000382&livemode=1
-#EXTINF:-1 tvg-id="31" tvg-logo="https://epg.51zmt.top:8000/api/logo/dongfang.png" group-title="4K",东方卫视4K
-http://39.134.39.39/270000001111/1110000383/index.m3u8?channel-id=bestzb&Contentid=1110000383&livemode=1
-#EXTINF:-1 tvg-id="33" tvg-logo="https://epg.51zmt.top:8000/api/logo/guangdong.png" group-title="4K",广东卫视4K
-http://39.134.39.39/270000001111/1110000384/index.m3u8?channel-id=bestzb&Contentid=1110000384&livemode=1
-#EXTINF:-1 tvg-id="34" tvg-logo="https://epg.51zmt.top:8000/api/logo/shenzhen.png" group-title="4K",深圳卫视4K
-http://39.134.39.39/270000001111/1110000388/index.m3u8?channel-id=bestzb&Contentid=1110000388&livemode=1
-#EXTINF:-1 tvg-id="38" tvg-logo="https://epg.51zmt.top:8000/api/logo/shandong.png" group-title="4K",山东卫视4K
-http://39.134.39.39/270000001111/1110000387/index.m3u8?channel-id=bestzb&Contentid=1110000387&livemode=1
-#EXTINF:-1 tvg-id="56" tvg-logo="https://epg.51zmt.top:8000/api/logo/sichuan.png" group-title="4K",四川卫视4K
-http://39.134.39.39/270000001111/1110000389/index.m3u8?channel-id=bestzb&Contentid=1110000389&livemode=1
-#EXTINF:-1 tvg-logo="" group-title="4K",CCTV-4K 超高清
-http://39.134.39.39/270000001111/1110000381/index.m3u8?channel-id=bestzb&Contentid=1110000381&livemode=1
+#EXTINF:-1 tvg-logo="" group-title="生活健康",农业致富-线路2
+http://39.134.32.167:6610/270000001128/9900000111/index.m3u8?channel-id=newtv&Contentid=9900000111&livemode=1
